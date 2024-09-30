@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Asude Fışkın</h1>
-<h3 align="center">Computer Engineering Student</h3>
 
 
 
